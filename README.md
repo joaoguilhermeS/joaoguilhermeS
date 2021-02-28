@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate on a webpage for recording of students with Django and SQL;
 - ⚡ Fun fact: I'm a little ashamed but I like to talk a lot (I know it doesn't make sense). 😄
 
+html.Hr()
     
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilhermeS&show_icons=true&theme=radical)
     
