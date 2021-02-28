@@ -7,7 +7,9 @@
 
 <html>
   <div style="display:flex; justify-items:center; align-items:center">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilhermeS&show_icons=true&theme=radical)
+    <script>
+      ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilhermeS&show_icons=true&theme=radical)
+    </script>
   </div>
 </html>
 
