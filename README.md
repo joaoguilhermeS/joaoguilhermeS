@@ -12,7 +12,7 @@
 
 <html>
   
- <img src="">  </img>
+ <img src="https://lh3.googleusercontent.com/proxy/ThQFS3xpIAE3UmpF1hkDQBU0RcPeLb8cKSxT900Xlo7w-UuDnbRJCMlMza73m2TCcYBqvQI54senoCg3vmlqHhMFfXyorVTp-QkK1UC3I5co" alt="Lattes">  </img>
 </html>
   
 <!--
