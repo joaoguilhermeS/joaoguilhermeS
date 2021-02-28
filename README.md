@@ -6,8 +6,16 @@
 - ⚡ Fun fact: I'm a little ashamed but I like to talk a lot (I know it doesn't make sense). 😄
 
 <hr style="float:left;">
+
+<html>
+    <head>
+        
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilhermeS&show_icons=true&theme=radical)    
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilhermeS&show_icons=true&theme=radical)    []   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilhermeS&layout=compact)](https://github.com/joaoguilhermeS/github)
+</html>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilhermeS&layout=compact)](https://github.com/joaoguilhermeS/github)
 
 
   
