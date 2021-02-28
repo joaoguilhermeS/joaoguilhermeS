@@ -7,17 +7,13 @@
 
 <hr style="float:left;">
 
-<html>
-    <head>
-        
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilhermeS&show_icons=true&theme=radical)    
-    
-</html>
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilhermeS&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilhermeS&layout=compact)](https://github.com/joaoguilhermeS/github)
 
-
+<html>
+  
+ <img src="">  </img>
+</html>
   
 <!--
 **joaoguilhermeS/joaoguilhermeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
