@@ -10,14 +10,12 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaoguilhermeS&show_icons=true&theme=radical)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilhermeS&layout=compact)](https://github.com/joaoguilhermeS/github)
 
-
+<div display="flex" justify-content = "center">
+ 
  <img src="https://lh3.googleusercontent.com/proxy/ThQFS3xpIAE3UmpF1hkDQBU0RcPeLb8cKSxT900Xlo7w-UuDnbRJCMlMza73m2TCcYBqvQI54senoCg3vmlqHhMFfXyorVTp-QkK1UC3I5co" alt="Lattes" height="100px" width="auto"> </img>
- 
  <img src="https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" alt="Linkedin" height="100px" width="auto"> </img>
- 
- 
  <img src="https://www.barbaracorsico.com/wp-content/uploads/ico-instagram.png" alt="Instagram" height="100px" width="auto"> </img>
- 
+ </div>
  
  
  
