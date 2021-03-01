@@ -12,15 +12,9 @@
 
 <div display="flex" justify-content = "center">
  
-<img src="https://github.com/joaoguilhermeS/Web-Development/blob/main/logos_readme/Logo-Lattes.png?raw=true" alt="Lattes" height="100px" width="auto"> </img> 
+
  
  
- 
- With [Handlebars templates](http://handlebarsjs.com/)
- 
- <img src="https://github.com/joaoguilhermeS/Web-Development/blob/main/logos_readme/Logo-instagram.png?raw=true" alt="Linkedin" height="100px" width="auto"> </img>
- <img src="https://github.com/joaoguilhermeS/Web-Development/blob/main/logos_readme/logo-Linkedin.jpg?raw=true" alt="Instagram" height="100px" width="auto"> </img>
- </div>
  
  
  
@@ -38,4 +32,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- With [Handlebars templates](http://handlebarsjs.com/)
+ 
+ <img src="https://github.com/joaoguilhermeS/Web-Development/blob/main/logos_readme/Logo-Lattes.png?raw=true" alt="Lattes" height="100px" width="auto"> </img> 
+ <img src="https://github.com/joaoguilhermeS/Web-Development/blob/main/logos_readme/Logo-instagram.png?raw=true" alt="Linkedin" height="100px" width="auto"> </img>
+ <img src="https://github.com/joaoguilhermeS/Web-Development/blob/main/logos_readme/logo-Linkedin.jpg?raw=true" alt="Instagram" height="100px" width="auto"> </img>
+ </div>
+ Isso aqui serve pra adicionar depois as logos e os links das minhas redes sociais
 -->
