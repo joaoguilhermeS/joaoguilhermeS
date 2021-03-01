@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoguilhermeS&layout=compact)](https://github.com/joaoguilhermeS/github)
 
 
- <img src="https://lh3.googleusercontent.com/proxy/ThQFS3xpIAE3UmpF1hkDQBU0RcPeLb8cKSxT900Xlo7w-UuDnbRJCMlMza73m2TCcYBqvQI54senoCg3vmlqHhMFfXyorVTp-QkK1UC3I5co" alt="Lattes" height="50px" width="50px"> </img>
+ <img src="https://lh3.googleusercontent.com/proxy/ThQFS3xpIAE3UmpF1hkDQBU0RcPeLb8cKSxT900Xlo7w-UuDnbRJCMlMza73m2TCcYBqvQI54senoCg3vmlqHhMFfXyorVTp-QkK1UC3I5co" alt="Lattes" height="200px" width="auto"> </img>
   
 <!--
 **joaoguilhermeS/joaoguilhermeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
