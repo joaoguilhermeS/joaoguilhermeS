@@ -16,6 +16,11 @@
  <img src="https://iconarchive.com/download/i82926/limav/flat-gradient-social/Linkedin.ico" alt="Linkedin" height="100px" width="auto"> </img>
  
  
+ <img src="https://www.barbaracorsico.com/wp-content/uploads/ico-instagram.png" alt="Instagram" height="100px" width="auto"> </img>
+ 
+ 
+ 
+ 
   
 <!--
 **joaoguilhermeS/joaoguilhermeS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
