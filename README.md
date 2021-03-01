@@ -12,7 +12,10 @@
 
 <div display="flex" justify-content = "center">
  
- <a src="#"> <img src="https://github.com/joaoguilhermeS/Web-Development/blob/main/logos_readme/Logo-Lattes.png?raw=true" alt="Lattes" height="100px" width="auto"> </img> </a>
+ 
+ [Handlebars templates] <img src="https://github.com/joaoguilhermeS/Web-Development/blob/main/logos_readme/Logo-Lattes.png?raw=true" alt="Lattes" height="100px" width="auto"> </img>  ("djwdkw")
+ 
+ 
  <img src="https://github.com/joaoguilhermeS/Web-Development/blob/main/logos_readme/Logo-instagram.png?raw=true" alt="Linkedin" height="100px" width="auto"> </img>
  <img src="https://github.com/joaoguilhermeS/Web-Development/blob/main/logos_readme/logo-Linkedin.jpg?raw=true" alt="Instagram" height="100px" width="auto"> </img>
  </div>
