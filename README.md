@@ -3,7 +3,7 @@
 - 🌱I'm currently learning JavaScript;
 - 🔭 I’m currently working on the ODE project in Federal University of Paraiba(UFPB);
 - 👯 I’m looking to collaborate on a webpage for recording of students with Django and SQL;
-- ⚡ Fun fact: I'm a little ashamed but I like to talk a lot (I know it doesn't make sense). 😄
+- ⚡ Fun fact: I'm a little shy but I like to talk a lot (I know it doesn't make sense). 😄
 
 <hr style="float:left;">
 
