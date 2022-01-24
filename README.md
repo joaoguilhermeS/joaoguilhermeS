@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🌱I'm currently learning JavaScript;
+- 🌱I'm currently learning Front End Development Libraries;
 - 🔭 I’m currently working on the ODE project in Federal University of Paraiba(UFPB);
-- 👯 I’m looking to collaborate on a webpage for recording of students with Django and SQL;
+- 👯 I’m looking to collaborate in python projects using dash, flask, django, sql, and related topics;
 - ⚡ Fun fact: I'm a little shy but I like to talk a lot (I know it doesn't make sense). 😄
 
 <hr style="float:left;">
