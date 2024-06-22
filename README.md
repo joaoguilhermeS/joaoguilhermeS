@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I'm currently enhancing my skills in ML applied to Computer Vision, focusing on Generative AI and Facial Recognition Networks.
+- 🌱 I'm currently enhancing my skills in Generative AI, LLMs Open Source, Agentic Workflows, ML applied to Computer Vision, focusing on Generative AI and Facial Recognition Networks.
 - 🔭 I’m the CTO & Co-Founder of YAITEC Solutions, where we specialize in AI solutions for small and medium businesses, offering AI Chatbots, AI Automation, AI agents, and cutting-edge AI technologies to optimize operations.
 - 💼 Main projects developed at YAITEC:
   - 🗣️ **AI Chatbots**: Talking to your data in any format using Langchain, vector store databases, and LLM tools. Because who doesn't want a chatbot that knows everything?
